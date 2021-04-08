@@ -7,7 +7,8 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn workspace 模块名 run serve
+例子: yarn workspace hello-k8s run serve
 ```
 
 ### Compiles and minifies for production
