@@ -1226,7 +1226,7 @@
   resolved "https://registry.npm.taobao.org/@vue/cli-overlay/download/@vue/cli-overlay-4.5.12.tgz?cache=0&sync_timestamp=1616590627026&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcli-overlay%2Fdownload%2F%40vue%2Fcli-overlay-4.5.12.tgz#d5ae353abb187672204197dcd077a4367d4d4a24"
   integrity sha1-1a41OrsYdnIgQZfc0HekNn1NSiQ=
 
-"@vue/cli-plugin-babel@~4.5.0":
+"@vue/cli-plugin-babel@^4.5.0", "@vue/cli-plugin-babel@~4.5.0":
   version "4.5.12"
   resolved "https://registry.npm.taobao.org/@vue/cli-plugin-babel/download/@vue/cli-plugin-babel-4.5.12.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcli-plugin-babel%2Fdownload%2F%40vue%2Fcli-plugin-babel-4.5.12.tgz#c9737d4079485ce9be07c463c81e1e33886c6219"
   integrity sha1-yXN9QHlIXOm+B8RjyB4eM4hsYhk=
@@ -1239,7 +1239,7 @@
     thread-loader "^2.1.3"
     webpack "^4.0.0"
 
-"@vue/cli-plugin-eslint@~4.5.0":
+"@vue/cli-plugin-eslint@^4.5.0", "@vue/cli-plugin-eslint@~4.5.0":
   version "4.5.12"
   resolved "https://registry.npm.taobao.org/@vue/cli-plugin-eslint/download/@vue/cli-plugin-eslint-4.5.12.tgz?cache=0&sync_timestamp=1616590586652&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcli-plugin-eslint%2Fdownload%2F%40vue%2Fcli-plugin-eslint-4.5.12.tgz#7fc2a1d0a490fa300ef4e94518c2cc49ba7a292f"
   integrity sha1-f8Kh0KSQ+jAO9OlFGMLMSbp6KS8=
@@ -1263,7 +1263,7 @@
   resolved "https://registry.npm.taobao.org/@vue/cli-plugin-vuex/download/@vue/cli-plugin-vuex-4.5.12.tgz?cache=0&sync_timestamp=1616590565306&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcli-plugin-vuex%2Fdownload%2F%40vue%2Fcli-plugin-vuex-4.5.12.tgz#f7fbe177ee7176f055b546e9e74472f9d9177626"
   integrity sha1-9/vhd+5xdvBVtUbp50Ry+dkXdiY=
 
-"@vue/cli-service@~4.5.0":
+"@vue/cli-service@^4.5.0", "@vue/cli-service@~4.5.0":
   version "4.5.12"
   resolved "https://registry.npm.taobao.org/@vue/cli-service/download/@vue/cli-service-4.5.12.tgz#483aef7dc4e2a7b02b7f224f0a2ef7cea910e033"
   integrity sha1-SDrvfcTip7ArfyJPCi73zqkQ4DM=
