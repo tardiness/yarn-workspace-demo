@@ -1,6 +1,7 @@
 {
   "name": "hello-k8s",
   "version": "0.1.0",
+  "module": "src/index.js",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,7 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "hello-docker": "^0.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.0",

@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <colorPicker v-model="color" />
+<!--    <colorPicker v-model="color" />-->
   </div>
 </template>
 
